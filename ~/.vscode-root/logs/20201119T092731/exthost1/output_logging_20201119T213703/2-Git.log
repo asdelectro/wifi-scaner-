@@ -1,0 +1,33 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/asd/wifi-sniffer
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: HTTP Basic: Access denied
+fatal: Authentication failed for 'https://gitlab.com/asdjah/c_sniff.git/'
+> git check-ignore -v -z --stdin
+> git show --textconv :mas_oui/.vscode/launch.json
+> git ls-files --stage -- /home/asd/wifi-sniffer/mas_oui/.vscode/launch.json
+> git cat-file -s 1b88f039a67df351c7e0cc879524d38107326285
+> git show --textconv :mas_oui/.vscode/tasks.json
+> git ls-files --stage -- /home/asd/wifi-sniffer/mas_oui/.vscode/tasks.json
+> git cat-file -s 08e1c320661884d8acc0b1617edf479ef0eee913
+> git show --textconv :mas_oui/.vscode/launch.json
+> git ls-files --stage -- /home/asd/wifi-sniffer/mas_oui/.vscode/launch.json
+> git cat-file -s 1b88f039a67df351c7e0cc879524d38107326285
+> git show --textconv :mas_oui/.vscode/tasks.json
+> git ls-files --stage -- /home/asd/wifi-sniffer/mas_oui/.vscode/tasks.json
+> git cat-file -s 08e1c320661884d8acc0b1617edf479ef0eee913

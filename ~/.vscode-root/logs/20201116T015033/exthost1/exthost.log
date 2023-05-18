@@ -1,0 +1,943 @@
+[2020-11-16 01:50:35.784] [exthost] [info] extension host started
+[2020-11-16 01:50:35.818] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-11-16 01:50:35.818] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-11-16 01:50:35.840] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-11-16 01:50:35.840] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-11-16 01:50:35.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-11-16 01:50:35.844] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-11-16 01:50:35.873] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-16 01:50:35.873] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-11-16 01:50:35.913] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-11-16 01:50:35.913] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-11-16 01:50:35.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-11-16 01:50:35.923] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-11-16 01:50:35.973] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-16 01:50:35.973] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-11-16 01:50:36.001] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-11-16 01:50:36.001] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-11-16 01:50:36.139] [exthost] [info] eager extensions activated
+[2020-11-16 01:50:36.162] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-11-16 01:50:36.162] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-11-16 01:50:52.290] [exthost] [info] extension host started
+[2020-11-16 01:50:52.317] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-11-16 01:50:52.317] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-11-16 01:50:52.324] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-11-16 01:50:52.325] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-11-16 01:50:52.326] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-11-16 01:50:52.326] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-11-16 01:50:52.335] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-16 01:50:52.335] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-11-16 01:50:52.349] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-11-16 01:50:52.349] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-11-16 01:50:52.351] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-11-16 01:50:52.351] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-11-16 01:50:52.401] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-16 01:50:52.401] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-11-16 01:50:52.434] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-11-16 01:50:52.434] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-11-16 01:50:52.489] [exthost] [info] eager extensions activated
+[2020-11-16 01:50:52.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-11-16 01:50:52.601] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-11-16 01:51:06.021] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2020-11-16 01:51:06.021] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-server-ready/dist/extension
+[2020-11-16 01:51:06.028] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"onDebugResolve:cppdbg"}
+[2020-11-16 01:51:06.028] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/asd/.vscode/extensions/ms-vscode.cpptools-1.1.1/dist/main
+[2020-11-16 01:52:01.927] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 01:52:01.927] [exthost] [error] undefined
+[2020-11-16 01:52:04.134] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 260
+[2020-11-16 01:52:05.005] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"extensionId":{"value":"vscode.grunt","_lower":"vscode.grunt"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-11-16 01:52:05.005] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/grunt/dist/main
+[2020-11-16 01:52:05.010] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"extensionId":{"value":"vscode.gulp","_lower":"vscode.gulp"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-11-16 01:52:05.010] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/gulp/dist/main
+[2020-11-16 01:52:05.012] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"extensionId":{"value":"vscode.jake","_lower":"vscode.jake"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-11-16 01:52:05.012] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/jake/dist/main
+[2020-11-16 01:52:05.014] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-11-16 01:52:05.014] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2020-11-16 01:52:05.022] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-11-16 01:52:05.022] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-11-16 01:52:09.211] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 260
+[2020-11-16 01:52:14.300] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 262
+[2020-11-16 01:53:15.379] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 272
+[2020-11-16 01:53:20.464] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 272
+[2020-11-16 01:54:36.329] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 01:54:36.329] [exthost] [error] undefined
+[2020-11-16 01:54:39.329] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 272
+[2020-11-16 01:54:51.672] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 272
+[2020-11-16 01:59:53.156] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 273
+[2020-11-16 02:00:02.051] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-11-16 02:00:02.051] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-11-16 02:00:02.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-11-16 02:00:02.057] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-11-16 02:07:03.172] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 277
+[2020-11-16 02:07:08.248] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 277
+[2020-11-16 02:15:18.036] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 277
+[2020-11-16 02:15:23.172] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 277
+[2020-11-16 02:32:28.661] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 278
+[2020-11-16 02:32:33.736] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 278
+[2020-11-16 02:32:46.785] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 02:32:46.785] [exthost] [error] undefined
+[2020-11-16 02:33:29.140] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 02:33:29.140] [exthost] [error] undefined
+[2020-11-16 02:33:31.314] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 278
+[2020-11-16 02:37:22.617] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 278
+[2020-11-16 02:37:27.708] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 278
+[2020-11-16 02:57:17.643] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+[2020-11-16 02:57:22.793] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 278
+[2020-11-16 02:57:30.624] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 278
+[2020-11-16 03:48:53.614] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 03:48:53.614] [exthost] [error] undefined
+[2020-11-16 03:55:43.068] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 03:55:43.068] [exthost] [error] undefined
+[2020-11-16 03:55:49.460] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 03:55:49.460] [exthost] [error] undefined
+[2020-11-16 03:55:53.638] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 03:55:53.638] [exthost] [error] undefined
+[2020-11-16 03:55:56.557] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 03:55:56.557] [exthost] [error] undefined
+[2020-11-16 03:56:01.310] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 03:56:01.310] [exthost] [error] undefined
+[2020-11-16 04:13:38.789] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-16 04:13:43.886] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-16 04:53:02.689] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-16 22:50:10.759] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 282
+[2020-11-16 22:50:15.850] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 282
+[2020-11-16 22:50:38.072] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-16 22:50:39.520] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-16 22:50:39.520] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-16 22:51:08.849] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-16 22:51:08.849] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-16 22:51:14.594] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-16 22:51:14.594] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-16 22:52:38.429] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 22:52:38.429] [exthost] [error] undefined
+[2020-11-16 22:52:40.555] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-16 22:52:40.555] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-16 22:52:50.900] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-16 22:53:35.934] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 22:53:35.934] [exthost] [error] undefined
+[2020-11-16 22:53:40.261] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-16 22:53:49.203] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 22:53:49.203] [exthost] [error] undefined
+[2020-11-16 22:54:24.848] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 22:54:24.848] [exthost] [error] undefined
+[2020-11-16 22:54:27.001] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 22:54:27.001] [exthost] [error] undefined
+[2020-11-16 22:54:31.423] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 22:54:31.423] [exthost] [error] undefined
+[2020-11-16 22:54:36.710] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 22:54:36.710] [exthost] [error] undefined
+[2020-11-16 22:59:35.224] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 22:59:35.224] [exthost] [error] undefined
+[2020-11-16 22:59:47.627] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 22:59:47.627] [exthost] [error] undefined
+[2020-11-16 22:59:59.795] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 22:59:59.795] [exthost] [error] undefined
+[2020-11-16 23:00:04.504] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:00:04.504] [exthost] [error] undefined
+[2020-11-16 23:00:17.786] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-16 23:00:39.529] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:00:39.529] [exthost] [error] undefined
+[2020-11-16 23:00:45.181] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:00:45.181] [exthost] [error] undefined
+[2020-11-16 23:00:53.952] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:00:53.952] [exthost] [error] undefined
+[2020-11-16 23:01:01.077] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 282
+[2020-11-16 23:01:25.983] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 282
+[2020-11-16 23:01:34.955] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:01:34.955] [exthost] [error] undefined
+[2020-11-16 23:01:44.591] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-16 23:01:52.378] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:01:52.378] [exthost] [error] undefined
+[2020-11-16 23:01:56.432] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 282
+[2020-11-16 23:02:27.191] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:02:27.192] [exthost] [error] undefined
+[2020-11-16 23:02:31.859] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:02:31.859] [exthost] [error] undefined
+[2020-11-16 23:02:38.423] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:02:38.427] [exthost] [error] undefined
+[2020-11-16 23:02:42.669] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:02:42.669] [exthost] [error] undefined
+[2020-11-16 23:02:48.540] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 282
+[2020-11-16 23:03:24.967] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2020-11-16 23:03:54.949] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:03:54.949] [exthost] [error] undefined
+[2020-11-16 23:03:59.908] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:03:59.908] [exthost] [error] undefined
+[2020-11-16 23:04:04.711] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:04:04.711] [exthost] [error] undefined
+[2020-11-16 23:04:20.110] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2020-11-16 23:04:30.022] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:04:30.022] [exthost] [error] undefined
+[2020-11-16 23:04:30.572] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 282
+[2020-11-16 23:05:30.136] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:05:30.136] [exthost] [error] undefined
+[2020-11-16 23:05:37.160] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:05:37.160] [exthost] [error] undefined
+[2020-11-16 23:05:41.482] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:05:41.482] [exthost] [error] undefined
+[2020-11-16 23:05:45.966] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:05:45.966] [exthost] [error] undefined
+[2020-11-16 23:05:55.820] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 282
+[2020-11-16 23:06:27.245] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:06:27.245] [exthost] [error] undefined
+[2020-11-16 23:06:33.978] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:06:33.978] [exthost] [error] undefined
+[2020-11-16 23:06:42.452] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:06:42.452] [exthost] [error] undefined
+[2020-11-16 23:06:56.791] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:06:56.791] [exthost] [error] undefined
+[2020-11-16 23:06:59.042] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2020-11-16 23:07:12.471] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:07:12.471] [exthost] [error] undefined
+[2020-11-16 23:07:27.949] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:07:27.949] [exthost] [error] undefined
+[2020-11-16 23:07:37.210] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2020-11-16 23:07:42.268] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2020-11-16 23:07:56.150] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:07:56.150] [exthost] [error] undefined
+[2020-11-16 23:07:58.240] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2020-11-16 23:08:03.303] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2020-11-16 23:10:14.196] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:10:14.196] [exthost] [error] undefined
+[2020-11-16 23:10:19.861] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:10:19.861] [exthost] [error] undefined
+[2020-11-16 23:10:24.278] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:10:24.278] [exthost] [error] undefined
+[2020-11-16 23:10:33.503] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:10:33.503] [exthost] [error] undefined
+[2020-11-16 23:10:58.787] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:10:58.787] [exthost] [error] undefined
+[2020-11-16 23:11:14.091] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:11:14.091] [exthost] [error] undefined
+[2020-11-16 23:11:38.784] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:11:38.784] [exthost] [error] undefined
+[2020-11-16 23:13:34.097] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:13:34.097] [exthost] [error] undefined
+[2020-11-16 23:15:37.994] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:15:37.994] [exthost] [error] undefined
+[2020-11-16 23:15:52.434] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:15:52.434] [exthost] [error] undefined
+[2020-11-16 23:19:29.628] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2020-11-16 23:19:34.709] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2020-11-16 23:19:35.167] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:19:35.167] [exthost] [error] undefined
+[2020-11-16 23:19:40.615] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2020-11-16 23:19:46.670] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2020-11-16 23:20:01.546] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:20:01.546] [exthost] [error] undefined
+[2020-11-16 23:20:12.256] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:20:12.256] [exthost] [error] undefined
+[2020-11-16 23:20:17.802] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:20:17.802] [exthost] [error] undefined
+[2020-11-16 23:20:23.139] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:20:23.140] [exthost] [error] undefined
+[2020-11-16 23:20:57.209] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 282
+[2020-11-16 23:21:02.286] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 282
+[2020-11-16 23:24:34.384] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:24:34.384] [exthost] [error] undefined
+[2020-11-16 23:24:38.500] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2020-11-16 23:27:22.326] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2020-11-16 23:27:33.574] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-16 23:31:45.593] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:31:45.593] [exthost] [error] undefined
+[2020-11-16 23:31:48.738] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:31:48.738] [exthost] [error] undefined
+[2020-11-16 23:31:56.426] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:31:56.426] [exthost] [error] undefined
+[2020-11-16 23:33:10.441] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:33:10.441] [exthost] [error] undefined
+[2020-11-16 23:33:24.098] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:33:24.098] [exthost] [error] undefined
+[2020-11-16 23:33:27.442] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:33:27.442] [exthost] [error] undefined
+[2020-11-16 23:33:32.429] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:33:32.429] [exthost] [error] undefined
+[2020-11-16 23:33:38.293] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:33:38.293] [exthost] [error] undefined
+[2020-11-16 23:33:51.595] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:33:51.595] [exthost] [error] undefined
+[2020-11-16 23:34:05.667] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:34:05.667] [exthost] [error] undefined
+[2020-11-16 23:34:39.574] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 279
+[2020-11-16 23:34:52.434] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-16 23:36:08.435] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:36:08.435] [exthost] [error] undefined
+[2020-11-16 23:36:20.792] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:36:20.792] [exthost] [error] undefined
+[2020-11-16 23:36:32.474] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:36:32.474] [exthost] [error] undefined
+[2020-11-16 23:36:52.273] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:36:52.273] [exthost] [error] undefined
+[2020-11-16 23:37:02.941] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:37:02.941] [exthost] [error] undefined
+[2020-11-16 23:37:07.957] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-16 23:38:33.537] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:38:33.537] [exthost] [error] undefined
+[2020-11-16 23:39:16.301] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-16 23:46:28.237] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:46:28.237] [exthost] [error] undefined
+[2020-11-16 23:46:32.475] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:46:32.475] [exthost] [error] undefined
+[2020-11-16 23:46:44.655] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:46:44.655] [exthost] [error] undefined
+[2020-11-16 23:46:55.310] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:46:55.310] [exthost] [error] undefined
+[2020-11-16 23:47:20.557] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:47:20.557] [exthost] [error] undefined
+[2020-11-16 23:47:51.788] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:47:51.788] [exthost] [error] undefined
+[2020-11-16 23:48:22.812] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:48:22.812] [exthost] [error] undefined
+[2020-11-16 23:49:18.737] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:49:18.737] [exthost] [error] undefined
+[2020-11-16 23:55:45.259] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:55:45.259] [exthost] [error] undefined
+[2020-11-16 23:55:58.486] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:55:58.486] [exthost] [error] undefined
+[2020-11-16 23:56:31.374] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:56:31.376] [exthost] [error] undefined
+[2020-11-16 23:56:41.203] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:56:41.203] [exthost] [error] undefined
+[2020-11-16 23:57:16.286] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:57:16.286] [exthost] [error] undefined
+[2020-11-16 23:57:52.497] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-16 23:58:09.830] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-16 23:58:48.391] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:58:48.391] [exthost] [error] undefined
+[2020-11-16 23:58:51.384] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-16 23:59:21.794] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-16 23:59:26.027] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-16 23:59:26.027] [exthost] [error] undefined
+[2020-11-16 23:59:40.380] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-16 23:59:59.014] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 00:00:50.150] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:00:50.150] [exthost] [error] undefined
+[2020-11-17 00:00:51.194] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 00:03:49.446] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:03:49.446] [exthost] [error] undefined
+[2020-11-17 00:03:50.443] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 00:03:55.514] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 00:05:58.693] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:05:58.693] [exthost] [error] undefined
+[2020-11-17 00:06:06.604] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:06:06.604] [exthost] [error] undefined
+[2020-11-17 00:06:06.915] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 00:06:27.768] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 00:32:08.916] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:32:08.916] [exthost] [error] undefined
+[2020-11-17 00:32:16.290] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:32:16.290] [exthost] [error] undefined
+[2020-11-17 00:32:24.943] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:32:24.943] [exthost] [error] undefined
+[2020-11-17 00:32:34.037] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:32:34.037] [exthost] [error] undefined
+[2020-11-17 00:32:38.095] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:32:38.095] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:32:39.282] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:32:39.282] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:32:53.689] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:32:53.689] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:33:05.481] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:33:05.481] [exthost] [error] undefined
+[2020-11-17 00:33:16.707] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:33:16.707] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:34:09.732] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:34:09.732] [exthost] [error] undefined
+[2020-11-17 00:34:12.494] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:34:28.842] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:34:28.842] [exthost] [error] undefined
+[2020-11-17 00:34:33.153] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:34:33.153] [exthost] [error] undefined
+[2020-11-17 00:34:41.183] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:34:53.751] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:34:53.751] [exthost] [error] undefined
+[2020-11-17 00:35:20.298] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:35:20.298] [exthost] [error] undefined
+[2020-11-17 00:35:32.659] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 00:36:22.488] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:36:22.490] [exthost] [error] undefined
+[2020-11-17 00:36:36.082] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:36:36.082] [exthost] [error] undefined
+[2020-11-17 00:36:43.739] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:36:43.740] [exthost] [error] undefined
+[2020-11-17 00:36:52.228] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:36:52.228] [exthost] [error] undefined
+[2020-11-17 00:36:56.888] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:36:56.888] [exthost] [error] undefined
+[2020-11-17 00:37:25.665] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:37:25.665] [exthost] [error] undefined
+[2020-11-17 00:37:29.816] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 00:37:37.493] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 00:39:13.349] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:39:13.349] [exthost] [error] undefined
+[2020-11-17 00:39:35.960] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:39:35.961] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:39:40.220] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:39:40.220] [exthost] [error] undefined
+[2020-11-17 00:40:09.684] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:40:09.986] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:40:12.040] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 00:40:20.954] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:40:20.954] [exthost] [error] undefined
+[2020-11-17 00:40:25.161] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:40:25.161] [exthost] [error] undefined
+[2020-11-17 00:40:44.244] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:40:44.244] [exthost] [error] undefined
+[2020-11-17 00:40:56.937] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:40:56.937] [exthost] [error] undefined
+[2020-11-17 00:41:07.445] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:41:07.445] [exthost] [error] undefined
+[2020-11-17 00:41:07.812] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 00:48:19.135] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:48:19.135] [exthost] [error] undefined
+[2020-11-17 00:49:39.207] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:49:39.207] [exthost] [error] undefined
+[2020-11-17 00:50:03.401] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:50:03.401] [exthost] [error] undefined
+[2020-11-17 00:50:06.197] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:50:06.197] [exthost] [error] undefined
+[2020-11-17 00:50:11.542] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:50:11.542] [exthost] [error] undefined
+[2020-11-17 00:50:28.292] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 00:50:59.285] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 00:53:19.204] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:53:19.204] [exthost] [error] undefined
+[2020-11-17 00:53:21.145] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:53:21.145] [exthost] [error] undefined
+[2020-11-17 00:53:27.293] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:53:27.294] [exthost] [error] undefined
+[2020-11-17 00:53:32.227] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:53:32.227] [exthost] [error] undefined
+[2020-11-17 00:53:44.085] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 00:53:44.086] [exthost] [error] undefined
+[2020-11-17 00:53:45.846] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 00:53:57.466] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 02:46:22.388] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 02:46:22.388] [exthost] [error] undefined
+[2020-11-17 02:46:27.766] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 02:46:36.397] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 02:46:36.397] [exthost] [error] undefined
+[2020-11-17 02:46:45.457] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 02:46:50.575] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 03:11:42.117] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:11:42.117] [exthost] [error] undefined
+[2020-11-17 03:12:07.077] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:12:07.077] [exthost] [error] undefined
+[2020-11-17 03:12:11.475] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 03:12:57.123] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:12:57.123] [exthost] [error] undefined
+[2020-11-17 03:13:02.719] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 03:15:56.691] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:15:56.691] [exthost] [error] undefined
+[2020-11-17 03:15:56.714] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:15:56.714] [exthost] [error] undefined
+[2020-11-17 03:15:56.740] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:15:56.740] [exthost] [error] undefined
+[2020-11-17 03:15:56.746] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:15:56.746] [exthost] [error] undefined
+[2020-11-17 03:15:56.769] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:15:56.769] [exthost] [error] undefined
+[2020-11-17 03:15:56.855] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:15:56.855] [exthost] [error] undefined
+[2020-11-17 03:16:21.606] [exthost] [error] onWillSaveTextDocument-listener from extension 'ms-vscode.cpptools' threw ERROR
+[2020-11-17 03:16:21.606] [exthost] [error] Error: timeout
+	at Timeout._onTimeout (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:642:581)
+	at listOnTimeout (internal/timers.js:531:17)
+	at processTimers (internal/timers.js:475:7)
+[2020-11-17 03:16:22.756] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 03:16:42.092] [exthost] [error] onWillSaveTextDocument-listener from extension 'ms-vscode.cpptools' threw ERROR
+[2020-11-17 03:16:42.092] [exthost] [error] Error: timeout
+	at Timeout._onTimeout (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:642:581)
+	at listOnTimeout (internal/timers.js:531:17)
+	at processTimers (internal/timers.js:475:7)
+[2020-11-17 03:16:43.235] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 03:16:50.423] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:16:50.423] [exthost] [error] undefined
+[2020-11-17 03:16:50.470] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:16:50.470] [exthost] [error] undefined
+[2020-11-17 03:16:50.546] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:16:50.546] [exthost] [error] undefined
+[2020-11-17 03:16:50.559] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:16:50.559] [exthost] [error] undefined
+[2020-11-17 03:17:37.436] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:17:37.436] [exthost] [error] undefined
+[2020-11-17 03:18:51.238] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 03:19:05.940] [exthost] [error] onWillSaveTextDocument-listener from extension 'ms-vscode.cpptools' threw ERROR
+[2020-11-17 03:19:05.941] [exthost] [error] Error: timeout
+	at Timeout._onTimeout (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:642:581)
+	at listOnTimeout (internal/timers.js:531:17)
+	at processTimers (internal/timers.js:475:7)
+[2020-11-17 03:19:07.100] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 03:19:11.045] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:19:11.045] [exthost] [error] undefined
+[2020-11-17 03:19:25.488] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 03:19:44.742] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 03:19:59.690] [exthost] [error] onWillSaveTextDocument-listener from extension 'ms-vscode.cpptools' threw ERROR
+[2020-11-17 03:19:59.690] [exthost] [error] Error: timeout
+	at Timeout._onTimeout (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:642:581)
+	at listOnTimeout (internal/timers.js:531:17)
+	at processTimers (internal/timers.js:475:7)
+[2020-11-17 03:20:00.914] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 03:20:09.722] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:20:09.722] [exthost] [error] undefined
+[2020-11-17 03:20:43.199] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 03:21:27.570] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 03:21:27.570] [exthost] [error] undefined
+[2020-11-17 03:21:36.589] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 280
+[2020-11-17 03:35:45.420] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 282
+[2020-11-17 03:47:50.131] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 281
+[2020-11-17 05:31:57.843] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 05:32:02.918] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 06:46:31.987] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 06:58:56.007] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 06:58:56.007] [exthost] [error] undefined
+[2020-11-17 06:58:56.043] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 06:58:56.043] [exthost] [error] undefined
+[2020-11-17 06:59:24.522] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 06:59:24.522] [exthost] [error] undefined
+[2020-11-17 06:59:24.534] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 06:59:24.534] [exthost] [error] undefined
+[2020-11-17 07:01:06.391] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:01:06.391] [exthost] [error] undefined
+[2020-11-17 07:01:44.536] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:01:44.536] [exthost] [error] undefined
+[2020-11-17 07:03:30.783] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:03:30.783] [exthost] [error] undefined
+[2020-11-17 07:05:23.050] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:05:23.050] [exthost] [error] undefined
+[2020-11-17 07:06:46.438] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:06:46.438] [exthost] [error] undefined
+[2020-11-17 07:12:20.434] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:12:20.434] [exthost] [error] undefined
+[2020-11-17 07:13:56.678] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:13:56.678] [exthost] [error] undefined
+[2020-11-17 07:14:24.991] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:14:24.991] [exthost] [error] undefined
+[2020-11-17 07:15:37.611] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:15:37.611] [exthost] [error] undefined
+[2020-11-17 07:16:30.082] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:16:30.082] [exthost] [error] undefined
+[2020-11-17 07:17:14.692] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:17:14.692] [exthost] [error] undefined
+[2020-11-17 07:18:16.416] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:18:16.416] [exthost] [error] undefined
+[2020-11-17 07:18:38.444] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:18:38.444] [exthost] [error] undefined
+[2020-11-17 07:19:01.365] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:19:01.365] [exthost] [error] undefined
+[2020-11-17 07:19:18.023] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:19:18.023] [exthost] [error] undefined
+[2020-11-17 07:19:40.746] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:19:40.746] [exthost] [error] undefined
+[2020-11-17 07:20:35.476] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:20:35.476] [exthost] [error] undefined
+[2020-11-17 07:21:27.563] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:21:27.563] [exthost] [error] undefined
+[2020-11-17 07:21:41.583] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:21:41.583] [exthost] [error] undefined
+[2020-11-17 07:22:22.080] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:22:22.080] [exthost] [error] undefined
+[2020-11-17 07:22:58.377] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:22:58.377] [exthost] [error] undefined
+[2020-11-17 07:23:43.638] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:23:43.638] [exthost] [error] undefined
+[2020-11-17 07:25:17.800] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:25:17.800] [exthost] [error] undefined
+[2020-11-17 07:26:39.066] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 07:26:39.066] [exthost] [error] undefined
+[2020-11-17 07:27:16.885] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 07:27:21.976] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 07:27:27.058] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 08:07:38.393] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:07:38.393] [exthost] [error] undefined
+[2020-11-17 08:07:48.245] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:07:48.245] [exthost] [error] undefined
+[2020-11-17 08:07:52.087] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:07:52.087] [exthost] [error] undefined
+[2020-11-17 08:08:00.375] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:08:00.375] [exthost] [error] undefined
+[2020-11-17 08:08:02.708] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:08:02.708] [exthost] [error] undefined
+[2020-11-17 08:09:25.371] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:09:25.371] [exthost] [error] undefined
+[2020-11-17 08:09:29.762] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:09:29.762] [exthost] [error] undefined
+[2020-11-17 08:09:39.631] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:09:39.631] [exthost] [error] undefined
+[2020-11-17 08:09:55.456] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:09:55.456] [exthost] [error] undefined
+[2020-11-17 08:10:02.079] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:10:02.079] [exthost] [error] undefined
+[2020-11-17 08:10:08.443] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:10:08.443] [exthost] [error] undefined
+[2020-11-17 08:10:53.408] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:10:53.408] [exthost] [error] undefined
+[2020-11-17 08:10:58.450] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:10:58.450] [exthost] [error] undefined
+[2020-11-17 08:11:05.788] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:11:05.788] [exthost] [error] undefined
+[2020-11-17 08:11:19.177] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:11:19.177] [exthost] [error] undefined
+[2020-11-17 08:11:56.507] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:11:56.507] [exthost] [error] undefined
+[2020-11-17 08:14:58.437] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:14:58.437] [exthost] [error] undefined
+[2020-11-17 08:15:07.489] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:15:07.489] [exthost] [error] undefined
+[2020-11-17 08:15:07.887] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:15:07.887] [exthost] [error] undefined
+[2020-11-17 08:15:10.623] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:15:10.623] [exthost] [error] undefined
+[2020-11-17 08:15:19.543] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:15:19.543] [exthost] [error] undefined
+[2020-11-17 08:15:29.600] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:15:29.600] [exthost] [error] undefined
+[2020-11-17 08:15:33.644] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:15:33.644] [exthost] [error] undefined
+[2020-11-17 08:15:47.186] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:15:47.186] [exthost] [error] undefined
+[2020-11-17 08:15:49.040] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 08:15:54.140] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 08:20:01.167] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:20:01.167] [exthost] [error] undefined
+[2020-11-17 08:20:26.442] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:20:26.442] [exthost] [error] undefined
+[2020-11-17 08:20:32.308] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 08:20:40.980] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:20:40.980] [exthost] [error] undefined
+[2020-11-17 08:20:55.256] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:20:55.256] [exthost] [error] undefined
+[2020-11-17 08:21:14.537] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:21:14.537] [exthost] [error] undefined
+[2020-11-17 08:22:02.984] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:22:02.984] [exthost] [error] undefined
+[2020-11-17 08:22:27.140] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:22:27.140] [exthost] [error] undefined
+[2020-11-17 08:22:48.807] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:22:48.807] [exthost] [error] undefined
+[2020-11-17 08:23:31.255] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:23:31.255] [exthost] [error] undefined
+[2020-11-17 08:24:06.549] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:24:06.549] [exthost] [error] undefined
+[2020-11-17 08:24:44.834] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 08:24:49.965] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 08:48:53.957] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:48:53.957] [exthost] [error] undefined
+[2020-11-17 08:48:59.758] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:48:59.759] [exthost] [error] undefined
+[2020-11-17 08:49:16.282] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:49:16.282] [exthost] [error] undefined
+[2020-11-17 08:49:31.095] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:49:31.095] [exthost] [error] undefined
+[2020-11-17 08:49:42.006] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:49:42.006] [exthost] [error] undefined
+[2020-11-17 08:49:46.498] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:49:46.498] [exthost] [error] undefined
+[2020-11-17 08:49:48.117] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:49:48.118] [exthost] [error] undefined
+[2020-11-17 08:50:30.298] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 08:50:30.298] [exthost] [error] undefined
+[2020-11-17 08:50:47.065] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 08:50:54.064] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 08:51:38.958] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 09:10:48.874] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:10:48.874] [exthost] [error] undefined
+[2020-11-17 09:10:56.689] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:10:56.689] [exthost] [error] undefined
+[2020-11-17 09:11:05.916] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:11:05.916] [exthost] [error] undefined
+[2020-11-17 09:11:15.866] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:11:15.866] [exthost] [error] undefined
+[2020-11-17 09:12:00.101] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:12:00.101] [exthost] [error] undefined
+[2020-11-17 09:13:03.726] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 09:13:08.856] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 09:31:04.724] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:31:04.724] [exthost] [error] undefined
+[2020-11-17 09:31:17.653] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:31:17.653] [exthost] [error] undefined
+[2020-11-17 09:33:21.063] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:33:21.063] [exthost] [error] undefined
+[2020-11-17 09:34:17.968] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 09:34:21.092] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 09:34:55.816] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 09:34:55.816] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 09:36:07.543] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 09:36:30.458] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:36:30.458] [exthost] [error] undefined
+[2020-11-17 09:39:19.479] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:39:19.479] [exthost] [error] undefined
+[2020-11-17 09:39:23.847] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:39:23.847] [exthost] [error] undefined
+[2020-11-17 09:39:29.064] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 09:40:01.625] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 09:40:07.279] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 09:40:12.500] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 09:40:13.284] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:40:13.284] [exthost] [error] undefined
+[2020-11-17 09:40:19.208] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 284
+[2020-11-17 09:40:31.144] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:40:31.144] [exthost] [error] undefined
+[2020-11-17 09:40:36.343] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 284
+[2020-11-17 09:40:38.594] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:40:38.594] [exthost] [error] undefined
+[2020-11-17 09:40:41.491] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 09:42:56.142] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:42:56.142] [exthost] [error] undefined
+[2020-11-17 09:43:02.226] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:43:02.226] [exthost] [error] undefined
+[2020-11-17 09:43:03.721] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:43:03.721] [exthost] [error] undefined
+[2020-11-17 09:43:03.723] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:43:03.723] [exthost] [error] undefined
+[2020-11-17 09:43:09.604] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:43:09.604] [exthost] [error] undefined
+[2020-11-17 09:43:15.495] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 09:43:15.495] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 09:43:19.369] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:43:19.369] [exthost] [error] undefined
+[2020-11-17 09:43:19.371] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:43:19.371] [exthost] [error] undefined
+[2020-11-17 09:43:21.573] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 09:44:10.221] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:44:10.221] [exthost] [error] undefined
+[2020-11-17 09:44:11.207] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 09:45:07.464] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:45:07.464] [exthost] [error] undefined
+[2020-11-17 09:46:17.889] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:46:17.889] [exthost] [error] undefined
+[2020-11-17 09:46:30.357] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:46:30.357] [exthost] [error] undefined
+[2020-11-17 09:46:32.070] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 09:46:37.201] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 09:47:26.354] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 09:47:26.354] [exthost] [error] undefined
+[2020-11-17 09:47:29.798] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 09:47:42.395] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 10:36:40.868] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 10:36:40.868] [exthost] [error] undefined
+[2020-11-17 10:36:52.597] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 10:36:52.597] [exthost] [error] undefined
+[2020-11-17 10:37:25.198] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 10:37:25.198] [exthost] [error] undefined
+[2020-11-17 10:38:21.423] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 10:38:21.423] [exthost] [error] undefined
+[2020-11-17 10:38:40.200] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 10:38:40.200] [exthost] [error] undefined
+[2020-11-17 10:38:40.200] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 10:38:40.200] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 10:38:40.206] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 10:38:40.513] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 10:38:45.738] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 10:38:47.392] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 10:39:09.548] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 10:39:21.037] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 10:39:51.867] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:14:46.975] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:14:52.084] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:31:24.762] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:31:24.762] [exthost] [error] undefined
+[2020-11-17 11:31:24.762] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:31:24.762] [exthost] [error] undefined
+[2020-11-17 11:31:30.275] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:31:30.275] [exthost] [error] undefined
+[2020-11-17 11:31:46.393] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:31:46.393] [exthost] [error] undefined
+[2020-11-17 11:31:54.763] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:31:54.763] [exthost] [error] undefined
+[2020-11-17 11:31:58.291] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:31:58.291] [exthost] [error] undefined
+[2020-11-17 11:32:44.208] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:32:44.208] [exthost] [error] undefined
+[2020-11-17 11:32:59.618] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:32:59.618] [exthost] [error] undefined
+[2020-11-17 11:34:06.484] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:34:06.484] [exthost] [error] undefined
+[2020-11-17 11:34:14.935] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:34:14.935] [exthost] [error] undefined
+[2020-11-17 11:34:18.449] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:34:18.450] [exthost] [error] undefined
+[2020-11-17 11:34:35.534] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:34:35.534] [exthost] [error] undefined
+[2020-11-17 11:34:41.330] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:34:41.330] [exthost] [error] undefined
+[2020-11-17 11:34:42.508] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:34:57.219] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:36:22.849] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:36:22.849] [exthost] [error] undefined
+[2020-11-17 11:36:24.481] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:36:29.594] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:37:12.566] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:37:12.566] [exthost] [error] undefined
+[2020-11-17 11:37:58.715] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:37:58.715] [exthost] [error] undefined
+[2020-11-17 11:38:12.100] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:38:12.100] [exthost] [error] undefined
+[2020-11-17 11:38:17.648] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:38:17.648] [exthost] [error] undefined
+[2020-11-17 11:38:22.801] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:38:22.801] [exthost] [error] undefined
+[2020-11-17 11:38:26.695] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:38:31.798] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:38:43.601] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:38:43.601] [exthost] [error] undefined
+[2020-11-17 11:38:43.602] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:38:43.602] [exthost] [error] undefined
+[2020-11-17 11:38:48.550] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:38:48.550] [exthost] [error] undefined
+[2020-11-17 11:38:59.611] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 11:38:59.611] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.
+[2020-11-17 11:39:09.850] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:39:09.850] [exthost] [error] undefined
+[2020-11-17 11:39:14.670] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:39:19.769] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:40:15.206] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:43:11.982] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:43:11.982] [exthost] [error] undefined
+[2020-11-17 11:43:29.144] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:43:32.843] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:43:32.843] [exthost] [error] undefined
+[2020-11-17 11:43:34.280] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:44:14.856] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:44:14.856] [exthost] [error] undefined
+[2020-11-17 11:44:16.071] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:44:16.071] [exthost] [error] undefined
+[2020-11-17 11:44:18.299] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:44:18.299] [exthost] [error] undefined
+[2020-11-17 11:44:28.058] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:44:28.058] [exthost] [error] undefined
+[2020-11-17 11:44:39.619] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:44:44.723] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:45:53.151] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:47:59.519] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 11:47:59.519] [exthost] [error] undefined
+[2020-11-17 11:48:05.060] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:48:10.190] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 11:48:26.162] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2020-11-17 12:19:39.959] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 284
+[2020-11-17 12:19:45.073] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 284
+[2020-11-17 12:21:24.435] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 284
+[2020-11-17 12:21:29.528] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 284
+[2020-11-17 12:25:36.834] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 12:25:36.834] [exthost] [error] undefined
+[2020-11-17 12:26:26.932] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 12:26:48.979] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 12:26:48.979] [exthost] [error] undefined
+[2020-11-17 12:26:49.005] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 12:26:49.005] [exthost] [error] undefined
+[2020-11-17 12:26:49.052] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 12:26:49.052] [exthost] [error] undefined
+[2020-11-17 12:26:49.086] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 12:26:49.086] [exthost] [error] undefined
+[2020-11-17 12:27:22.759] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 12:27:22.759] [exthost] [error] undefined
+[2020-11-17 12:27:22.817] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 12:27:22.817] [exthost] [error] undefined
+[2020-11-17 12:27:22.843] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 12:27:22.843] [exthost] [error] undefined
+[2020-11-17 12:27:22.872] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 12:27:22.872] [exthost] [error] undefined
+[2020-11-17 12:27:22.875] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 12:27:22.876] [exthost] [error] undefined
+[2020-11-17 12:27:34.824] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 12:27:59.120] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 12:28:41.157] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 12:28:41.157] [exthost] [error] undefined
+[2020-11-17 12:28:41.212] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 12:28:41.212] [exthost] [error] undefined
+[2020-11-17 12:28:41.220] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 12:28:41.220] [exthost] [error] undefined
+[2020-11-17 12:28:47.035] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 12:29:33.687] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 12:29:33.689] [exthost] [error] undefined
+[2020-11-17 21:04:02.551] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:04:07.653] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:04:08.167] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:04:08.167] [exthost] [error] undefined
+[2020-11-17 21:05:33.894] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:16:58.532] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:16:58.532] [exthost] [error] undefined
+[2020-11-17 21:17:04.231] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:17:04.837] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:17:04.837] [exthost] [error] undefined
+[2020-11-17 21:17:09.336] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:18:11.391] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:18:11.391] [exthost] [error] undefined
+[2020-11-17 21:18:51.357] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:18:56.456] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:21:47.198] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:21:49.245] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:21:49.245] [exthost] [error] undefined
+[2020-11-17 21:21:52.313] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:22:10.236] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:22:15.311] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:22:27.319] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:22:29.581] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:22:29.581] [exthost] [error] undefined
+[2020-11-17 21:22:32.424] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:22:48.904] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:24:05.135] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:24:05.135] [exthost] [error] undefined
+[2020-11-17 21:24:09.090] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:24:14.263] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:26:57.097] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:26:57.098] [exthost] [error] undefined
+[2020-11-17 21:27:05.107] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:27:05.107] [exthost] [error] undefined
+[2020-11-17 21:27:08.443] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:27:08.443] [exthost] [error] undefined
+[2020-11-17 21:27:18.177] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:27:23.295] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:28:53.158] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:28:53.159] [exthost] [error] undefined
+[2020-11-17 21:29:16.186] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:29:16.186] [exthost] [error] undefined
+[2020-11-17 21:29:37.449] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:29:37.449] [exthost] [error] undefined
+[2020-11-17 21:29:42.549] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:29:47.830] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:30:08.569] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 284
+[2020-11-17 21:30:13.743] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:31:45.830] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:31:45.830] [exthost] [error] undefined
+[2020-11-17 21:32:01.989] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:32:07.109] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:35:15.363] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:35:17.471] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:35:17.471] [exthost] [error] undefined
+[2020-11-17 21:35:20.458] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:36:58.144] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:37:03.307] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:37:11.454] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:38:39.403] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:38:44.496] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:41:49.438] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:41:49.439] [exthost] [error] undefined
+[2020-11-17 21:42:09.725] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:42:09.725] [exthost] [error] undefined
+[2020-11-17 21:42:20.748] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:42:20.748] [exthost] [error] undefined
+[2020-11-17 21:42:30.625] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:42:30.626] [exthost] [error] undefined
+[2020-11-17 21:42:38.088] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:42:38.088] [exthost] [error] undefined
+[2020-11-17 21:42:38.653] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:42:43.763] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:45:32.831] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:45:32.831] [exthost] [error] undefined
+[2020-11-17 21:45:40.800] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:45:42.020] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:45:42.020] [exthost] [error] undefined
+[2020-11-17 21:45:45.887] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:47:22.720] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:47:22.721] [exthost] [error] undefined
+[2020-11-17 21:47:25.226] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:47:30.384] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:49:07.887] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:49:07.887] [exthost] [error] undefined
+[2020-11-17 21:49:14.788] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-11-17 21:49:14.788] [exthost] [error] undefined
+[2020-11-17 21:49:25.046] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:49:30.166] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:54:54.857] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
+[2020-11-17 21:56:13.701] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 307
